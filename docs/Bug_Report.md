@@ -23,7 +23,7 @@ To produce a valid bug report, please include the following:
 ## Example Bug report
 ### Bug Title
 - **Version Number:** pre-alpha v0.0.x
-- Steps to reproduce
+- **Steps to reproduce**
   1. Do something
   2. Do something else
   3. The bug will do something
