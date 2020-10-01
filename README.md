@@ -9,7 +9,7 @@ Use this repository to submit bug reports for pre-release builds of \[insert gam
 - Click the 'New Issue' button
 <img src="create_issue.png" />
 
-- Describe the bug as documented in the <a href="Bug_Report.md">bug report guidelines</a>
+- Describe the bug as documented in the <a href="Bug_Report">bug report guidelines</a>
 
 - Once you have documented the bug, press 'Submit new issue'
 
