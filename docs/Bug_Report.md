@@ -33,4 +33,4 @@ To produce a valid bug report, please include the following:
 *Attach screenshot of bug*
 
 
-<a href="README">Go Back</a>
+<a href="https://os-games-official.github.io/Game/">Go Back</a>
