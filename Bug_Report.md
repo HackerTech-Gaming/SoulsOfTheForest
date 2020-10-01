@@ -14,7 +14,7 @@ To produce a valid bug report, please include the following:
 - Click the 'New Issue' button
 <img src="create_issue.png" />
 
-- Describe the bug as documented <a href="#how-to-report-a-bug">below</a>
+- Describe the bug as documented <a href="#example-bug-report">below</a>
 
 - Once you have documented the bug, press 'Submit new issue'
 
