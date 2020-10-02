@@ -27,7 +27,7 @@ To produce a valid bug report, please include the following:
   1. Do something
   2. Do something else
   3. The bug will do something
--**Additional Info**
+- **Additional Info**
   Additional information that is relevant to the bug.
 - **Screenshot**
 *Attach screenshot of bug*
