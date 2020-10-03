@@ -1,6 +1,6 @@
-Game
+Souls of the Forest
 ==============
-Use this repository to submit bug reports for pre-release builds of \[insert game name here]
+Use this repository to submit bug reports for pre-release builds of Souls of the Forest
 
 ## Bug Reports
 [See main article](Bug_Report.md)
