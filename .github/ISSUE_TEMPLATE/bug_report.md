@@ -10,10 +10,10 @@ assignees: ''
 **Version Number:** pre-alpha v0.0.
 
 **Steps to reproduce**
-  1. 
-  2. 
-  3. 
-  4. 
+  1. _
+  2. _
+  3. _
+  4. _
 
 **Additional Info** *(optional)*
 
