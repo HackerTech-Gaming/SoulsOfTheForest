@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Describe what you want to see changed**
-Type a brief description of what you would like to see changed in one of the upcoming releases
+**What you want to see changed**
 
-**Describe why you would like to see this**
-Provide a reason for wanting this feature added/changed/removed
+
+**Why you would like to see this**
+
 
 **Additional Info** *(optional)*
-Provide any additional info that may help clarify your request
+Delete this section if not using
 
 **Concept Art** *(optional)*
-Upload a photo of what you envision this change looking like
+Delete this section if not using
