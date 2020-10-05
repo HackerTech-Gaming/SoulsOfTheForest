@@ -5,7 +5,7 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 ## Bug Reports
 [See main article](Bug_Report.md)
 
-###### Please include the following in your bug report
+###### Please include the following details in your bug report
 
 **Version Number:** What version of the game have you discovered this bug in, if it’s an older one, check newer one’s to see if the bug is still present before submitting. (version should be in format: pre-alpha v0.0.x)
 
