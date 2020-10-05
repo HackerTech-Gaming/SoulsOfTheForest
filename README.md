@@ -21,6 +21,8 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 **Screenshot**
 >Upload a screenshot of the bug (use snipping tool or Win+PrtSc) so we can see what the bug looks like. You can upload up to 4 images to clarify.
 
+[Submit a bug report here](https://github.com/OS-Games-Official/SoulsOfTheForest/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)
+
 ## Suggestions
 
 ###### Please include the following details in your suggestion
