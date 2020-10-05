@@ -16,10 +16,10 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
   4. This bug
 
 **Additional Info** *(optional)*
-   Provide some additional information that is relevant to the bug.
+>Provide some additional information that is relevant to the bug.
 
 **Screenshot**
-Upload a screenshot of the bug (use snipping tool or Win+PrtSc) so we can see what the bug looks like. You can upload up to 4 images to clarify.
+>Upload a screenshot of the bug (use snipping tool or Win+PrtSc) so we can see what the bug looks like. You can upload up to 4 images to clarify.
 
 ## Suggestions
 
@@ -27,16 +27,16 @@ Upload a screenshot of the bug (use snipping tool or Win+PrtSc) so we can see wh
 
 **Describe what you want to see changed**
 
-Type a brief description of what you would like to see changed in one of the upcoming releases
+> Type a brief description of what you would like to see changed in one of the upcoming releases
 
 **Describe why you would like to see this**
 
-Provide a reason for wanting this feature added/changed/removed
+> Provide a reason for wanting this feature added/changed/removed
 
 **Additional Info** *(optional)*
 
-Provide any additional info that may help clarify your request
+> Provide any additional info that may help clarify your request
 
 **Concept Art** *(optional)*
 
-Upload a photo of what you envision this change looking like
+> Upload a photo of what you envision this change looking like
