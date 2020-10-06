@@ -44,3 +44,8 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 > Upload a photo of what you envision this change looking like
 
 *[Submit a suggestion here](https://github.com/OS-Games-Official/SoulsOfTheForest/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D)*
+
+## Changelogs/Patch Notes
+[View changelogs here](https://www.github.com/OS-Games-Official/Changelog.md)
+
+**Current Version:** `Pre-Alpha v0.0.3a`
