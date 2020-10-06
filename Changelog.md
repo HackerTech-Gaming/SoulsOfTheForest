@@ -17,6 +17,8 @@ Changelogs/Patch Notes
 **Bug Fixes:**
 - Tweaked hitboxes
 
+____________________
+
 ### v0.0.2
 **Additions:**
 - Added idle, run and jump animations
@@ -29,8 +31,10 @@ Changelogs/Patch Notes
 **Additions:**
 - None
 
-**Bug Fixs:**
+**Bug Fixes:**
 - Attempted to fix character stuck in jump animation on steep slopes
+
+________________
 
 ### v0.0.3
 **Additions:**
@@ -47,6 +51,8 @@ Changelogs/Patch Notes
 **Bug Fixes:**
 - Fixed bug #1
 - Fixed bug #2 by reducing tree stump size and adjusting hitboxes
+
+________________
 
 ### v0.0.4
 **Additions:**
