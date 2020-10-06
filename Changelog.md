@@ -53,6 +53,7 @@ ________________
 - Fixed bug #2 by reducing tree stump size and adjusting hitboxes
 
 ________________
+#### *Upcoming version*
 
 ### v0.0.4
 **Additions:**
