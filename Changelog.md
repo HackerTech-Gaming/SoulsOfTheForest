@@ -26,3 +26,31 @@ Changelogs/Patch Notes
 - Left screen hitbox now works correctly
 
 ### v0.0.2a
+**Additions:**
+- None
+
+**Bug Fixs:**
+- Attempted to fix character stuck in jump animation on steep slopes
+
+### v0.0.3
+**Additions:**
+- Added level 1, scene 2
+- Added death animation into files (not used)
+
+**Bug Fixes:**
+- None
+
+### v0.0.3a
+**Additions:**
+- Reduced stump size to fix a bug
+
+**Bug Fixes:**
+- Fixed bug #1
+- Fixed bug #2 by reducing tree stump size and adjusting hitboxes
+
+### v0.0.4
+**Additions:**
+- *Coming soon...*
+
+**Bug Fixes:**
+- *None planned*
