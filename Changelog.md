@@ -19,4 +19,10 @@ Changelogs/Patch Notes
 
 ### v0.0.2
 **Additions:**
-- 
+- Added idle, run and jump animations
+- Tweaked speed to eliminate conflict with animation controllers
+
+**Bug Fixes:**
+- Left screen hitbox now works correctly
+
+### v0.0.2a
