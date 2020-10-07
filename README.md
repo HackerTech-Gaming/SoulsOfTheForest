@@ -45,6 +45,10 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 
 *[Submit a suggestion here](https://github.com/OS-Games-Official/SoulsOfTheForest/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D)*
 
+## Wiki
+Looking for some info about something in-game, or just want to do some reading, you can
+[visit the official wiki here](https://www.github.com/OS-Games-Official/SoulsOfTheForest/wiki/)
+
 ## Changelogs/Patch Notes
 [View changelogs here](Changelog.md)
 
