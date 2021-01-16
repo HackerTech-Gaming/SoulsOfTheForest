@@ -21,7 +21,7 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 **Screenshot**
 >Upload a screenshot of the bug (use snipping tool or Win+PrtSc) so we can see what the bug looks like. You can upload up to 4 images to clarify.
 
-*[Submit a bug report here](https://github.com/OS-Games-Official/SoulsOfTheForest/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)*
+*[Submit a bug report here](https://github.com/HackerTech-Gaming/SoulsOfTheForest/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)*
 
 ## Suggestions
 
@@ -43,11 +43,11 @@ Use this repository to submit bug reports for pre-release builds of Souls of the
 
 > Upload a photo of what you envision this change looking like
 
-*[Submit a suggestion here](https://github.com/OS-Games-Official/SoulsOfTheForest/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D)*
+*[Submit a suggestion here](https://github.com/HackerTech-Gaming/SoulsOfTheForest/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D)*
 
 ## Wiki
 Looking for some info about something in-game, or just want to do some reading, you can
-[visit the official wiki here](https://www.github.com/OS-Games-Official/SoulsOfTheForest/wiki/)
+[visit the official wiki here](https://www.github.com/HackerTech-Gaming/SoulsOfTheForest/wiki/)
 
 ## Changelogs/Patch Notes
 [View changelogs here](Changelog.md)
